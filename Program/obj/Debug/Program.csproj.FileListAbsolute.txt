@@ -1,0 +1,12 @@
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\bin\Debug\Program.exe.config
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\bin\Debug\Program.exe
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\bin\Debug\Program.pdb
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\bin\Debug\NodaMoney.dll
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\bin\Debug\TaxCalculatorAssy.dll
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\bin\Debug\NodaMoney.xml
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\bin\Debug\TaxCalculatorAssy.pdb
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\obj\Debug\Program.exe
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\Program\obj\Debug\Program.pdb

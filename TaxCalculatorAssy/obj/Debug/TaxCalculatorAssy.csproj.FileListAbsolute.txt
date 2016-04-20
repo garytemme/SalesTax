@@ -1,0 +1,8 @@
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\TaxCalculatorAssy\bin\Debug\TaxCalculatorAssy.dll
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\TaxCalculatorAssy\bin\Debug\TaxCalculatorAssy.pdb
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\TaxCalculatorAssy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\TaxCalculatorAssy\bin\Debug\NodaMoney.dll
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\TaxCalculatorAssy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\TaxCalculatorAssy\bin\Debug\NodaMoney.xml
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\TaxCalculatorAssy\obj\Debug\TaxCalculatorAssy.dll
+C:\Users\tmtq-mac1\Documents\Visual Studio 2015\Projects\Tek\SalesTaxes\TaxCalculatorAssy\obj\Debug\TaxCalculatorAssy.pdb

@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7CB7FBD4-3F22-4F92-B55B-A6BC257310A4}"
+	ProjectSection(SolutionItems) = preProject
+		..\Technical skill self-assessment.xlsx = ..\Technical skill self-assessment.xlsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Instructions", "Instructions", "{54F4D0EB-4399-4033-92AA-DB0C28DAF3E5}"
+	ProjectSection(SolutionItems) = preProject
+		..\docs\Exercise.md = ..\docs\Exercise.md
+		..\FeedBack.md = ..\FeedBack.md
+		..\docs\License.md = ..\docs\License.md
+		..\ReadMe.md = ..\ReadMe.md
+		..\docs\Setup.md = ..\docs\Setup.md
+		..\docs\Vision.md = ..\docs\Vision.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{F752130B-113E-406D-86AF-7C7A266E3C9C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9FC184F9-F89D-46A3-934C-54218628E416} = {9FC184F9-F89D-46A3-934C-54218628E416}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculatorTest", "TaxCalculatorTest\TaxCalculatorTest.csproj", "{4DA8D4B9-F018-4A12-9909-181A6DAD381F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9FC184F9-F89D-46A3-934C-54218628E416} = {9FC184F9-F89D-46A3-934C-54218628E416}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculatorAssy", "TaxCalculatorAssy\TaxCalculatorAssy.csproj", "{9FC184F9-F89D-46A3-934C-54218628E416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F752130B-113E-406D-86AF-7C7A266E3C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F752130B-113E-406D-86AF-7C7A266E3C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F752130B-113E-406D-86AF-7C7A266E3C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F752130B-113E-406D-86AF-7C7A266E3C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA8D4B9-F018-4A12-9909-181A6DAD381F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA8D4B9-F018-4A12-9909-181A6DAD381F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA8D4B9-F018-4A12-9909-181A6DAD381F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA8D4B9-F018-4A12-9909-181A6DAD381F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC184F9-F89D-46A3-934C-54218628E416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC184F9-F89D-46A3-934C-54218628E416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC184F9-F89D-46A3-934C-54218628E416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC184F9-F89D-46A3-934C-54218628E416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F752130B-113E-406D-86AF-7C7A266E3C9C} = {7CB7FBD4-3F22-4F92-B55B-A6BC257310A4}
+		{4DA8D4B9-F018-4A12-9909-181A6DAD381F} = {7CB7FBD4-3F22-4F92-B55B-A6BC257310A4}
+		{9FC184F9-F89D-46A3-934C-54218628E416} = {7CB7FBD4-3F22-4F92-B55B-A6BC257310A4}
+	EndGlobalSection
+EndGlobal
