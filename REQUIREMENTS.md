@@ -1,8 +1,4 @@
-## Table of contents
-1. [Overview](ReadMe.md)
-1. [Setup](docs/Setup.md)
-1. [Vision](docs/Vision.md)
-1. **[Coding exercise](docs/Exercise.md)**
+
 
 # Sales Taxes 
 
